@@ -9,6 +9,10 @@ theme: /
     state: Hello
         intent!: /привет
         a: Привет привет
+        
+    state: TestNumber
+        intent!: /test
+        a: Попали
 
     state: Bye
         intent!: /пока
