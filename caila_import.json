@@ -45,7 +45,7 @@
     "priority" : 0
   } ],
   "entities" : [ ],
-  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url", "zb.number" ],
+  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ],
   "spellerDictionary" : [ ],
   "systemEntities" : [ {
     "name" : "mystem.geo",
@@ -148,6 +148,6 @@
     "enabled" : false
   }, {
     "name" : "zb.number",
-    "enabled" : true
+    "enabled" : false
   } ]
 }
