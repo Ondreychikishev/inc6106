@@ -16,7 +16,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 124389,
+    "id" : 124627,
     "path" : "/test",
     "enabled" : true,
     "shared" : false,
@@ -26,7 +26,7 @@
     "patterns" : [ ],
     "priority" : 0
   }, {
-    "id" : 124387,
+    "id" : 124628,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -35,7 +35,7 @@
     } ],
     "priority" : 0
   }, {
-    "id" : 124388,
+    "id" : 124629,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
@@ -45,7 +45,7 @@
     "priority" : 0
   } ],
   "entities" : [ ],
-  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url" ],
+  "enabledSystemEntities" : [ "duckling.number", "duckling.time", "duckling.duration", "duckling.phone-number", "duckling.email", "duckling.url", "zb.number" ],
   "spellerDictionary" : [ ],
   "systemEntities" : [ {
     "name" : "mystem.geo",
@@ -148,6 +148,6 @@
     "enabled" : false
   }, {
     "name" : "zb.number",
-    "enabled" : false
+    "enabled" : true
   } ]
 }
