@@ -16,6 +16,16 @@
     "shared" : false
   },
   "intents" : [ {
+    "id" : 124389,
+    "path" : "/test",
+    "enabled" : true,
+    "shared" : false,
+    "phrases" : [ {
+      "text" : "@zb.number"
+    } ],
+    "patterns" : [ ],
+    "priority" : 0
+  }, {
     "id" : 124387,
     "path" : "/пока",
     "enabled" : true,
